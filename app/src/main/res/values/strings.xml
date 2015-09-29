@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">AltaPersona</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="titulo">Alta persona</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellidos">Apellidos</string>
+    <string name="nif">NIF</string>
+    <string name="fecha">Fecha de nacimiento</string>
+    <string name="genero">Género</string>
+    <string name="hombre">Hombre</string>
+    <string name="mujer">Mujer</string>
+    <string name="registrar">Registrar</string>
+    <string name="error"></string>
+    <string name="sierror">Rellene todos los campos</string>
+
+
+    <string name="title_activity_info">Info</string>
+    <string name="tituloInfo">Persona dada de alta</string>
+</resources>
